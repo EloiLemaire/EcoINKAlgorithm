@@ -1,10 +1,10 @@
 # EcoINKAlgorythm
 
 >\> What ?
-_An algorythm which rearrange the colored fillings of both characters and shapes in a document (proposed in the printings options tab) in order to save ink and electricity._
+_An algorithm which rearrange the colored fillings of both characters and shapes in a document (proposed in the printings options tab)._
 >
 >\> For who ?
-_Every owner of a printer. Person who doesn't care about having voids in its characters and shapes visible when you look through a magnifying glass._
+_Every owner of a printer. Person doesn't have the owrry of the detail._
 >
 >\> Why ?
 _In order to protect the environment, to reduce the time and cost of a printing._
